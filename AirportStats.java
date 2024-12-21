@@ -1,11 +1,3 @@
-// Name: Chibuzor Abia
-// VUnetID: abiacs
-// Email: chibuzor.s.abia@vanderbilt.edu
-// Class: CS 1101 - Vanderbilt University
-// Section: 03
-// Date: 11/21/2024
-// Honor statement:I attest that I understand the honor code for this class and have neither given
-//                 nor received any unauthorized aid on this assignment.
 
 // Program description: This program tracks statistics for different airports
 import java.util.Scanner;
